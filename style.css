@@ -1,0 +1,9 @@
+.parent-pagini{
+    display: flex;
+    justify-content: center;
+}
+
+.pageni{
+    position: fixed;
+    bottom: 300px;
+}
